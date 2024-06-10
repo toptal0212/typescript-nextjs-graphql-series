@@ -10,5 +10,5 @@ const IndexPage: React.FunctionComponent = () => {
     </Layout>
   )
 }
-
+ 
 export default IndexPage;
